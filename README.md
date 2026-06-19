@@ -26,7 +26,7 @@ https://catalog.workshops.aws/cfn101/en-US/
 ## Week 7
 https://catalog.workshops.aws/ecs-immersion-day/en-US
 
-## Week 8
+## Week 8 (Site broken)
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US/
 
 ## Week 9
@@ -35,7 +35,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f
 ## Week 10
 https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/en-US/
 
-## Week 11
+## Week 11 (Site broken)
 https://catalog.us-east-1.prod.workshops.aws/workshops/a33a5d69-1417-4d5f-acc9-ae5c7fba665b/en-US/
 
 ## Week 12
