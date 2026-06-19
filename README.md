@@ -27,7 +27,11 @@ https://catalog.workshops.aws/cfn101/en-US/
 https://catalog.workshops.aws/ecs-immersion-day/en-US
 
 ## Week 8 (Site broken)
-https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US/
+Original: https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US/
+
+### Alternatives:
+- https://catalog.workshops.aws/serverless-patterns/en-US/
+- https://golang.serverlessworkshops.io/
 
 ## Week 9
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/en-US/
