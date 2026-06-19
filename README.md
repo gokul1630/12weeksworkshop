@@ -1,6 +1,6 @@
 # 12weeksworkshop
 
-## Since the 12weeksworkshop.com website is down, I just created this site with all workshop links
+## Since the 12weeksworkshop.com website is down, I just created this repo with all workshop links
 
 <img width="700" height="605" alt="image" src="https://github.com/user-attachments/assets/4bc80466-3e56-4905-accb-bb15a82f84c1" />
 
